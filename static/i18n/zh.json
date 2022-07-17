@@ -1,7 +1,7 @@
 {
   "lang": "zh",
-  "start": "開始!!",
-  "normal": "TAMA普通模式",
+  "start": "開始!",
+  "normal": "普通模式",
   "endless": "與TAMA訓練耐力",
   "practice": "與TAMA練習",
   "settings": "TAMA的私人設置",
@@ -35,7 +35,7 @@
   "text-level-2": "再加油吧?Tama看好你的，別讓我失望",
   "text-level-3": "TAMA覺得你可以做她的訓練員",
   "text-level-4": "TAMA覺得你可以做她的專屬訓練員",
-  "text-level-5": "TAMA願意跟你結婚",
+  "text-level-5": "TAMA願意跟你結婚，什麼時候去辦證呢?",
   "time-over": "倒计时多了",
   "rank-title": "吃掉TAMA-排行榜",
   "query-record": "查询记录",
